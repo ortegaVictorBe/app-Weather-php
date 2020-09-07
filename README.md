@@ -49,7 +49,7 @@ Developed by [Victor Ortega](https://github.com/ortegaVictorBe) for [BeCode](htt
 
 :airplane: [<< Live Version >>][address1]
 
-[address1]: https://becode.io/projects/crazyWeather
+[address1]: http://becode.io/projects/crazyWeather/
 
 ---
 
