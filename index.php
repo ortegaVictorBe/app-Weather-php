@@ -160,9 +160,7 @@
         }                
      }    
 ?>
-
-
-    <script src="js/script_search.js"></script>
+    <!-- <script src="js/script_search.js"></script> -->
 </body>
 
 </html>

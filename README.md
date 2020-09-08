@@ -49,13 +49,15 @@ Developed by [Victor Ortega](https://github.com/ortegaVictorBe) for [BeCode](htt
 
 :airplane: [<< Live Version >>][address1]
 
-[address1]: http://becode.io/projects/crazyWeather/
+[address1]: https://ortegavictorbe.github.io/app-Weather-php/
 
 ---
 
 ## Bugs :bug:
 
-- live search makes slow load the index
+- live search makes slow load the index (now is unactive)
+  if you wantto ckeck please uncomment the line
+  " script src="js/script_search.js" in index.php
 
 - it needs to add more functionality (Main & Fancy)
 
