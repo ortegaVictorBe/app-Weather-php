@@ -55,9 +55,7 @@ Developed by [Victor Ortega](https://github.com/ortegaVictorBe) for [BeCode](htt
 
 ## Bugs :bug:
 
-- live search makes slow load the index (now is unactive)
-  if you wantto ckeck please uncomment the line
-  " script src="js/script_search.js" in index.php
+- live search makes slow load the index.
 
 - it needs to add more functionality (Main & Fancy)
 
